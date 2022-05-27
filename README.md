@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelAltaf
 - 👀 I’m interested in pretty much everything related to programming
 - 🌱 I’m currently learning Python, HTML, CSS, C#, MySQL and other cool stuff.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on pretty much anything. I'm still learning what I like and want to do.
 - 📫 How to reach me: Instagram = rafael_altaf
 
 <!---
